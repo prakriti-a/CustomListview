@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Custom Listview</string>
+    <string name="pic">Image</string>
+    <string name="name">NAME OF ANIMAL:</string>
+</resources>
